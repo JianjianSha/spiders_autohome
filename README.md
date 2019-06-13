@@ -1,2 +1,2 @@
 # spiders
-many kinds of tricks using in web crawling
+many kinds of tricks used in web crawling
