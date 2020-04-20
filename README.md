@@ -1,2 +1,2 @@
 # spiders
-many kinds of tricks used in web crawling
+Web crawling. Website is "autohome.com.cn". 
